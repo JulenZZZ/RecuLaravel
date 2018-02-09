@@ -1,0 +1,1 @@
+<p>El resultado de la division es:{{ $resultado }}</p>

@@ -1,0 +1,1 @@
+<p>El divisor no puede ser igual a cero</p>
